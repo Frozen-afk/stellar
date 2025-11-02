@@ -90,11 +90,11 @@ This ensures faster payments, lower fees, and hassle-free international freelanc
 
 1. **Build the application:**
 
-   cargo build --release
+   `cargo build --release`
 
 3. **Run the CLI prototype:**
 
-   cargo run
+   `cargo run`
 
 4. **Follow the prompts:**
 

@@ -115,8 +115,8 @@ This ensures faster payments, lower fees, and hassle-free international freelanc
 
 ## Contact
 
-Project Lead: Frahan Alam
+Project Lead: Arpan Jaiswal
 
-Email: b25135@students.iitmandi.ac.in
+Email: b25124@students.iitmandi.ac.in
 
 GitHub: https://github.com/Frozen-afk

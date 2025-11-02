@@ -90,34 +90,33 @@ This ensures faster payments, lower fees, and hassle-free international freelanc
 
 1. **Build the application:**
 
-cargo build --release
+-cargo build --release
 
 3. **Run the CLI prototype:**
 
-cargo run
+-cargo run
 
 4. **Follow the prompts:**
 
-Enter your Stellar wallet address
+-Enter your Stellar wallet address
 
-Check balance
+-Check balance
 
-Enter withdrawal amount in USDC
+-Enter withdrawal amount in USDC
 
-Enter UPI ID
+-Enter UPI ID
 
+-Confirm transaction
 
-Confirm transaction
-
-CLI will simulate USDC capture and INR payout
+-CLI will simulate USDC capture and INR payout
 
 ---
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE
+This project is licensed under the MIT License. See the LICENSE file for details.
 
-file for details.
+
 
 ---
 

@@ -13,7 +13,6 @@
 - [Technology Stack](#technology-stack)
 - [How It Works](#how-it-works)
 - [Getting Started](#getting-started)
-- [License](#license)
 - [Contact](#contact)
 
 ---
@@ -112,13 +111,7 @@ This ensures faster payments, lower fees, and hassle-free international freelanc
 
 ---
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-
-
----
 
 ## Contact
 

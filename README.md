@@ -89,10 +89,25 @@ This ensures faster payments, lower fees, and hassle-free international freelanc
 
 ## Getting Started
 
-1. **Install Rust:**  
-Follow instructions at [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install)  
+1. **Build the application:**
+cargo build --release
 
-2. **Clone the repository:**  
-```bash
-git clone https://github.com/your-username/gig-pay-india.git
-cd gig-pay-india
+2. **Run the CLI prototype:**
+cargo run
+
+3. **Follow the prompts:**
+Enter your Stellar wallet address
+Check balance
+Enter withdrawal amount in USDC
+Enter UPI ID
+Confirm transaction
+CLI will simulate USDC capture and INR payout
+
+## License
+This project is licensed under the MIT License. See the LICENSE
+file for details.
+
+## Contact
+Project Lead: Frahan Alam
+Email: b25135@students.iitmandi.ac.in
+GitHub: https://github.com/Frozen-afk

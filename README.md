@@ -13,7 +13,6 @@
 - [Technology Stack](#technology-stack)
 - [How It Works](#how-it-works)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -90,24 +89,42 @@ This ensures faster payments, lower fees, and hassle-free international freelanc
 ## Getting Started
 
 1. **Build the application:**
+
 cargo build --release
 
-2. **Run the CLI prototype:**
+3. **Run the CLI prototype:**
+
 cargo run
 
-3. **Follow the prompts:**
+4. **Follow the prompts:**
+
 Enter your Stellar wallet address
+
 Check balance
+
 Enter withdrawal amount in USDC
+
 Enter UPI ID
+
+
 Confirm transaction
+
 CLI will simulate USDC capture and INR payout
 
+---
+
 ## License
+
 This project is licensed under the MIT License. See the LICENSE
+
 file for details.
 
+---
+
 ## Contact
+
 Project Lead: Frahan Alam
+
 Email: b25135@students.iitmandi.ac.in
+
 GitHub: https://github.com/Frozen-afk
